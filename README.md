@@ -14,7 +14,8 @@ Target: IPaddress
 
 iv] Screenshots :
 
-![Vulnerability Scan Result](Screenshot 2025-09-25 181236.png)
+![Vulnerability Scan Result](Vulneribility pic 1.png)
+![Vulnerability Scan Result](Vulneribility pic 2.png)
 
 
 v] Key Findings :
