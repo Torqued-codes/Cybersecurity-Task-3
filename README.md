@@ -8,14 +8,16 @@ Nessus Essentials
 
 iii] Scan Configuration :
 
-Scan Type: Basic Network Scan
+Scan Type : Basic Network Scan
 
-Target: IPaddress
+Target : IP address
 
 iv] Screenshots :
 
-![Vulnerability Scan Result](Vulneribility pic 1.png)
-![Vulnerability Scan Result](Vulneribility pic 2.png)
+## Screenshots
+
+![Vulnerability Scan Result 1](Vulnerability%20pic%201.png)
+![Vulnerability Scan Result 2](Vulnerability%20pic%202.png)
 
 
 v] Key Findings :
