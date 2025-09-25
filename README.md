@@ -12,16 +12,10 @@ Scan Type: Basic Network Scan
 
 Target: IPaddress
 
-iv] Summary of Results :
+iv] Screenshots :
 
-Severity	Vulnerability Name	Family	Count
-Medium	SMB Signing not required	Misc.	1
-Mixed	SSL (Multiple Issues)	General	4
-Info	SMB (Multiple Issues)	Windows	6
-Info	HTTP (Multiple Issues)	Web Servers	2
-Info	Microsoft Windows (Multiple)	Windows	2
-Info	TLS (Multiple Issues)	Service Detection	2
-Info	Netstat Portscanner (SSH)	Port Scanners	25
+![Vulnerability Scan Result](Screenshot 2025-09-25 181236.png)
+
 
 v] Key Findings :
 
@@ -54,9 +48,6 @@ Monitor and regularly update PC/network software to keep up with new vulnerabili
 Future scans recommended to ensure ongoing security.
 
 vi] Evidence :
-Screenshots of scan summary and vulnerabilities are placed in the repo
-Vulneribility table
 
-Scan dashboard
-
-Vulnerability table
+- Screenshots of scan summary and vulnerabilities are placed in the repo.
+- Vulneribility table.
