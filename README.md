@@ -16,10 +16,11 @@ Target : IP address
 
 ## iv] Screenshots :
 
-Screenshots
 
-![Vulnerability Scan Result 1](Vulnerability%20pic%201.png)
-![Vulnerability Scan Result 2](Vulnerability%20pic%202.png)
+![Image](https://github.com/user-attachments/assets/1773094d-e8fd-44ed-ac73-763cb224907e)
+
+
+![Image](https://github.com/user-attachments/assets/886da56b-ee08-416b-9d10-079c3b4462c4)
 
 
 ## v] Key Findings :
